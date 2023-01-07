@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anderson_Borba&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name!+:%29)](https://git.io/typing-svg)
 
 ### Olá! Me chamo Anderson! 😜
 
@@ -11,11 +9,15 @@ Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e exper
 
 ![Anderson_Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=dracula)
 
+
+
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>  
+
+
 
 ### Contatos
 
