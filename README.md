@@ -1,4 +1,3 @@
-
 ### Olá! Me chamo Anderson! 😜
 
 Sou estudante de Engenharia da Computação pela UNIVESP/SP.
