@@ -2,7 +2,7 @@
 ### Olá! Me chamo Anderson! 😜
 
 Sou estudante de Engenharia da Computação pela UNIVESP/SP.
-Atualmente busco capacitação e experiência na área de Ciência de Dados.
+Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e experiências que possam fortalecer a minha capacitação na área de análise e ciência de dados.
 
 ![Anderson_Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=dracula)
 
