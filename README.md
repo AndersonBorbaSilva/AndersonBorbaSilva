@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anderson_Borba&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
-[![Typing SVG](https://readme=typing=svg.herokuapp.com/?
-color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Muito+Prazer!+Me+chamo+Anderson;Moro+em+Sorocaba-SP;Tenho+35+anos;Sou+estudante+de+Engenharia+da+Computação;Pela+UNIVESP-SP+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
+color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name!+:%29)](https://git.io/typing-svg)
 
 ### Olá! Me chamo Anderson! 😜
 
