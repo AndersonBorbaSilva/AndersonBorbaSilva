@@ -3,6 +3,13 @@
 [!Typing SVG](https://readme-typing-svg.herokuapp.com/?
 color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+ANDERSON;I'M+35+YEARS+OLD;I+FROM+BRASIL;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app?api?
+username=AndersonBorbaSilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="AndersonBorbaSilva github stats" />
+  <img width="41%" heigth="195px" src="https://github-readme-stas.vercel.app/api/top-langs/?
+username=AndersonBorbaSilva&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>  
+
 ### Olá! Me chamo Anderson! 😜
 
 Sou estudante de Engenharia da Computação pela UNIVESP/SP.
@@ -10,6 +17,8 @@ Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e exper
 
 
 ![Anderson_Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=dracula)
+
+
 
 
 
