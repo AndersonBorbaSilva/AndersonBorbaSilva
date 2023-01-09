@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Seja+bem+vindo+!&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
 
-### Olá! Me chamo Anderson! 😜
+## Olá! Me chamo Anderson! 😜
 
 Sou estudante de Engenharia da Computação pela UNIVESP/SP.
 Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e experiências que possam fortalecer a minha capacitação na área de análise e ciência de dados.
