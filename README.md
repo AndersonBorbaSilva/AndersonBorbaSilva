@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Seja+bem+vindo+!&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Prazer+Conhecê-lo(a)!+👋;Tenho+35+anos....;Moro+em+Sorocaba/SP!&center=true&size=30">
+  </a>
+</h1>
+ 
 
 ## Olá! Me chamo Anderson! 😜
 
@@ -8,6 +14,8 @@ Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e exper
 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=gotham" alt="AndersonBorbaSilva" />
 
+  
+  
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndersonBorbaSilva&bg_color=000000&color=ff0000&line=660000&point=707070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
