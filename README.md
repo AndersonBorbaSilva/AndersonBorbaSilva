@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anderson_Borba&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Seja+bem+vindo+!&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
 
 ### Olá! Me chamo Anderson! 😜
