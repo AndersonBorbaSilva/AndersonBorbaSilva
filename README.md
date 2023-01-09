@@ -8,8 +8,7 @@ Atualmente estou em fase de aprendizado. Busco oportunidades de estágio e exper
 
 
 ![Anderson_Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=dracula)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=gotham" alt="AndersonBorbaSilva" />
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=AndersonBorbaSilva&show_icons=true&theme=gotham" alt="AndersonBorbaSilva" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndersonBorbaSilva&bg_color=000000&color=ff0000&line=660000&point=707070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
